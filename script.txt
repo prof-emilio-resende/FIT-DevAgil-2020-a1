@@ -1,0 +1,36 @@
+. Usando o cli
+dotnet new --list
++ https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new
+
+> dotnet new console -n FIT.Projeto.Aula1
+> dotnet new sln -n FIT-Aula1
+> dotnet sln add FIT.Projeto.Aula1/FIT.Projeto.Aula1.csproj
+
+Conhecendo as estruturas básicas
+
+tipos e nullable
+----------------------------------------------------
+Variaveis
+
+condicionais, for, foreach, switch
+----------------------------------------------------
+LacosEColecoes
+
+Tipos estáticos, mas com algum dinamismo ;)
+----------------------------------------------------
+Dynamics
+
+OO em geral (básico)
+----------------------------------------------------
+classes, herança, polimorfismo, interfaces
+
+Programação funcional (básico)
+----------------------------------------------------
+funções, lambda e generics
+
+C#8!
+----------------------------------------------------
+Recursos avançados!
+AsyncAwaitFct
+Tuples
+FancySwitch
